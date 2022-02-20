@@ -17,7 +17,7 @@ Because the demo is using the public rtc server to generate tokens stability is 
 <br>
 <br>
 INSTALLATION:<br>
-0. install nodejs - if u dont already has it
+0. install nodejs - if u dont already has it installed
 1. git clone https://github.com/hoantrung112/Secured_Call_GUI<br>
 2. npm i<br>
 3. electron main.js<br>
